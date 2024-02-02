@@ -7,7 +7,7 @@ iframe {
     width: 500px;
 }
 
-.titel {
+#titel {
     float: right;
     display: block;
 }
@@ -17,9 +17,22 @@ iframe {
     padding: 5px;
     background-color: #F2CD5D;
     text-decoration: none;
+    border-style: solid;
+    border-color: #927b35;
+    text-decoration: none;
+    height: 50px;
+    width: 100px;
+    
+}
+.nav_list_item:hover {
+    background-color: #927b35;
 }
 
 #nav_list {
     padding: 10px;
     background-color: #c3a449;
+}
+
+h1, p {
+    color: #31081F;
 }
