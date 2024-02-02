@@ -33,6 +33,12 @@ iframe {
     background-color: #c3a449;
 }
 
-h1, p {
+p {
     color: #31081F;
+    font-size: 30px;
+}
+
+h2 {
+    color: #31081F;
+    font-size: 60px;
 }
