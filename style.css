@@ -1,5 +1,5 @@
 body {
-    background-color: red;
+    background-color: #80DED9;
 }
 
 iframe {
@@ -9,5 +9,17 @@ iframe {
 
 .titel {
     float: right;
-    position: sticky;
+    display: block;
+}
+
+.nav_list_item {
+    display: inline-block;
+    padding: 5px;
+    background-color: #F2CD5D;
+    text-decoration: none;
+}
+
+#nav_list {
+    padding: 10px;
+    background-color: #c3a449;
 }
