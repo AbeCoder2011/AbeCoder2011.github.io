@@ -5,3 +5,7 @@ function tohtmlcss0() {
 function tohtmlcss1() {
     location.href = "https://7496022e-0f98-44a6-b54f-924ccd73d2f9-00-setgsqcbqm70.riker.repl.co/"
 }
+
+function totowerdefense() {
+    location.href = "https://scratch.mit.edu/projects/899491722/"
+}
