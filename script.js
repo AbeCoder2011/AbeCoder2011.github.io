@@ -9,3 +9,15 @@ function tohtmlcss1() {
 function totowerdefense() {
     location.href = "https://scratch.mit.edu/projects/899491722/"
 }
+
+function topython1a() {
+    location.href = "https://www.online-python.com/oFJrasQcXR"
+}
+
+function topython1b() {
+    location.href = "https://www.online-python.com/bznydfNWPQ"
+}
+
+function topython2() {
+    location.href = "https://www.online-python.com/AyOaBhx6km"
+}
