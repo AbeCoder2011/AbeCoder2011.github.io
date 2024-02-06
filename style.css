@@ -90,5 +90,8 @@ img:hover {
 }
 
 #scratch {
-    background-image: src="images/scratch-logo-png.png";
+    background-image: url("images/scratchcat.png");
+    height: 3s00px;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
