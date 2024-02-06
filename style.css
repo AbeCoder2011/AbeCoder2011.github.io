@@ -88,3 +88,7 @@ img:hover {
     width: 96%;
     margin: 2%;
 }
+
+#scratch {
+    background-image: src="images/scratch-logo-png.png";
+}
