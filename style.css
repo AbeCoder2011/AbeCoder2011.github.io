@@ -71,6 +71,7 @@ header{
 * {
     margin: 0px;
     padding: 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 article {
@@ -82,7 +83,7 @@ article {
     width: 40%;
 }
 
-.linkimages	{
+.linkimages, .image	{
     width: 90%;
     margin: 5%;
 }
