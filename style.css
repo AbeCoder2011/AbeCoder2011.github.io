@@ -1,5 +1,5 @@
 body {
-    background-color: #F0A202;
+    background-color: #C3E8BD;
 }
 
 a {
@@ -18,8 +18,8 @@ iframe {
 #titel {
     float: left;
     display: block;
-    color: #890620;
-    text-shadow: 5px 5px 7px #0c0003;
+    color: #370617;
+    text-shadow: 5px 5px 7px #03071E;
     font-size: 70px;
 }
 
@@ -27,43 +27,48 @@ iframe {
     display: inline-block;
     padding: 5px;
     margin: 10px;
-    background-color: #A6D3A0;
+    background-color: #8EB897;
     text-decoration: none;
     border-style: solid;
-    border-color: #71916d;
+    border-color: #5B7553;
     height: 25px;
 }
 
 .nav_list_item:hover {
-    background-color: #71916d;
+    background-color: #5B7553;
 }
 
 #nav_list {
     padding: 10px;
-    background-color: #A6D3A0;
+    background-color: #8EB897;
     position: fixed;
     top: 100px;
     width: 100%;
 }
 
 p {
-    color: black;
+    color: #03071E;
     font-size: 20px;
     padding: 5px;
 }
 
 h2 {
-    color: #000000;
+    color: #03071E;
     font-size: 40px;
     padding: 5px;
+}
 
+h5 {
+    color: #03071E;
+    font-size: 30px;
+    padding: 5px;
 }
 
 header{
     float: top;
     width: 100%;
     background: rgb(45,45,136);
-    background: linear-gradient(90deg, rgba(45,45,136,1) 0%, rgba(255,55,55,1) 100%);
+    background: linear-gradient(90deg, #2a7231 0%, #157F1F 100%);
     height: 100px;
     position: fixed;
 }
@@ -91,4 +96,9 @@ article {
 .linkimages:hover {
     width: 96%;
     margin: 2%;
+}
+
+footer {
+    width: 100%;
+    background-color: #b1b1b1;
 }

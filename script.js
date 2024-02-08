@@ -21,3 +21,8 @@ function topython1b() {
 function topython2() {
     location.href = "https://www.online-python.com/AyOaBhx6km"
 }
+
+document.addEventListener("DOMContentLoaded", (event) => {
+    let year = document.getElementById("year")
+    year.innerHTML = new Date().getFullYear()
+  });
